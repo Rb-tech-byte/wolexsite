@@ -79,7 +79,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-storybook": "^0.6.6",
     "eslint-plugin-testing-library": "^5.7.2",
-    "firebase-admin": "^11.1.0",
+    "firebase-admin": "^11.11.0",
     "i": "^0.3.7",
     "nodemailer": "^6.8.0",
     "npm": "^8.19.2",
